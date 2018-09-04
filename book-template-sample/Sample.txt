@@ -1,7 +1,7 @@
 {frontmatter}
 ch00-preface.md
-ch00-version-history.md
+ch00-about-the-book.md
 {mainmatter}
-ch01-introduction.md
+ch01.md
 {backmatter}
-sample-toc.md
+

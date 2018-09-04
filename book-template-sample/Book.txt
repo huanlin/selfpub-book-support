@@ -1,6 +1,6 @@
 {frontmatter}
 ch00-preface.md
-ch00-version-history.md
+ch00-about-the-book.md
 {mainmatter}
 ch01.md
 ch02.md
